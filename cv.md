@@ -1,22 +1,22 @@
-#1.Крыштапович Никита
+1.Kryshtapovich Nikita
 
 
-#2.Мобильный телефон - +375 29 616 75 88
+2.Mobile phone - +375 29 616 75 88
 
 
-#3.Мне 18 лет,учу front-end,в будущем хочу работать в какой-либо компании,а желательно удалённо,из опыта #работы был маленький проект,но он не был закончен,так как я учусь и не было времени им заниматься
+3.I am 18 years old, I am learning front-end, in the future I want to work in some company, preferably remotely, from my work experience there was a small project, but it was not finished, since I am studying and there was no time to do it
 
 
-#4. базовый уровень HTML,CCS,JS
+4. Basic level HTML,CCS,JS
 
 
-#5.нет
+5.no
 
 
-#6.Был маленький проект и на курсах делали несколько сайтов
+6.There was a small project and several websites were made during the courses.
 
 
-#7.Прошел курс по front-end Алгоритмики,учусь на технолого в Жодинском колледже
+7.I completed a course on front-end Algorithms, I study technology at Zhodino College
 
 
-#8.Базовый уровень английского языка
+8.Basic level of English
