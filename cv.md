@@ -7,7 +7,7 @@
 3.I am 18 years old, I am learning front-end, in the future I want to work in some company, preferably remotely, from my work experience there was a small project, but it was not finished, since I am studying and there was no time to do it
 
 
-4. Basic level HTML,CCS,JS
+4.Basic level HTML,CCS,JS
 
 
 5.no
